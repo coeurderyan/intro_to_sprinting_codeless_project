@@ -20,7 +20,7 @@ So rested he by the Tumtum tree
 And, as in uffish thought he stood, 
       The Jabberwock, with eyes of flame, 
 Came whiffling through the tulgey wood, 
-      And burbled as it came! 
+      And burbled as it came! #the jabberwock suddenly passed at this point, it was replace by yet another jabberwock nearly identical to the first but with an added insecurity about canopy birds, which doesn't really come up in the story all that much
 
 One, two! One, two! And through and through 
       The vorpal blade went snicker-snack! 
