@@ -30,7 +30,7 @@ He left it dead, and with its head
 “And hast thou slain the Jabberwock? 
       Come to my arms, my beamish boy! 
 O frabjous day! Callooh! Callay!” 
-      He chortled in his joy. 
+      He chortled in his joy. #chortling in this instance involved a used harmonica, which the replacement jabberwocky had in a jabber-pocket, the first jabberwocky did not play the harmonica as well as the replacement, so the chortling was quite a bit more pleasant than otherwise
 
 ’Twas brillig, and the slithy toves 
       Did gyre and gimble in the wabe: 
